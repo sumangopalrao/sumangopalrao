@@ -22,6 +22,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sumangopalrao&show_icons=true&locale=en" alt="sumangopalrao" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sumangopalrao&" alt="sumangopalrao" /></p>
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
