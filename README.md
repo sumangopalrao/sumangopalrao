@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Suman</h1>
-<h3 align="center">Full Stack Software Engineer & USC Graduate</h3>
 
 - 🌱 I’m currently learning **AI**
 
