@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Suman</h1>
+<h1 align="center">Hi! I'm Suman</h1>
 
 - 🌱 I’m currently learning **AI**
 
