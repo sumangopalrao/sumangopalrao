@@ -1,6 +1,6 @@
 <h1 align="center">Hi! I'm Suman Gopal Rao</h1>
 
-- 🌱 I’m currently learning **AI**, **Astrology**
+- 🌱 I’m currently learning **AI**
 
 - 💬 Ask me about **angular, angularjs, react, java**
 
