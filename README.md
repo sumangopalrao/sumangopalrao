@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning **AI, Astrology**
 
-- 💬 Ask me about **angular, angularjs, react, java**
+- 💬 Ask me about **angular, angularjs, react, UI dev, java**
 
 <p align="left">
 </p>
