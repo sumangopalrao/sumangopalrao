@@ -12,4 +12,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sumangopalrao&" alt="sumangopalrao" /></p>
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/sumangopalrao)
+<!-- ![Leetcode Stats](https://leetcard.jacoblin.cool/sumangopalrao) -->
