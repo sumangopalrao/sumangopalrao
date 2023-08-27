@@ -1,8 +1,8 @@
 <h1 align="center">Hi! I'm Suman Gopal Rao</h1>
 
-- 🌱 I’m currently learning **AI, Astrology**
+- 🌱 I’m currently learning **AI**
 
-- 💬 Ask me about **angular, angularjs, react, UI dev, java**
+- 💬 Ask me about **angular, next.js, react, angularjs, UI dev, java**
 
 <p align="left">
 </p>
