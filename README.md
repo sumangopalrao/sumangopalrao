@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning **AI**
 
-- 💬 Ask me about **angular, next.js, react, angularjs, UI dev, java**
+- 💬 Ask me about **next.js, react, angular, angularjs, UI dev, java**
 
 <p align="left">
 </p>
